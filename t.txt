@@ -1,0 +1,462 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+
+#34.64.98.175	www.alldatasheet.jp
+#115.22.68.12	alldatasheet.jp
+#115.22.68.12	www.alldatasheet.es
+#115.22.68.12	alldatasheet.es
+#115.22.68.12	www.alldatasheet.fr
+#115.22.68.12	alldatasheet.fr
+#115.22.68.12	www.alldatasheet.net
+#115.22.68.12	alldatasheet.net
+#115.22.68.12	www.alldatasheet.com
+#115.22.68.12	alldatasheet.com
+#115.22.68.12	www.alldatasheet.co.kr
+#115.22.68.12	alldatasheet.co.kr
+#115.22.68.12	cn.alldatasheet.com
+#115.22.68.12	cn.alldatasheet.com
+#115.22.68.12	www.alldatasheetcn.com
+#115.22.68.12	alldatasheetcn.com
+#115.22.68.12	www.alldatasheetit.com
+#115.22.68.12	alldatasheetit.com
+#115.22.68.12	www.alldatasheetpt.com
+#115.22.68.12	alldatasheetpt.com
+#115.22.68.12	www.alldatasheetde.com
+#115.22.68.12	alldatasheetde.com
+#115.22.68.12	www.alldatasheetru.com
+#115.22.68.12	alldatasheetru.com
+#115.22.68.12	www.alldatasheet.pl
+#115.22.68.12	alldatasheet.pl
+#115.22.68.12	www.alldatasheet.vn
+#115.22.68.12	alldatasheet.vn
+
+#115.22.68.38	category.alldatasheet.com
+#115.22.68.38	category.alldatasheet.net
+#115.22.68.38	category.alldatasheet.jp
+#115.22.68.38	category.alldatasheet.es
+#115.22.68.38	category.alldatasheet.fr
+#115.22.68.38	category.alldatasheetcn.com
+#115.22.68.38	category.alldatasheet.co.kr
+#115.22.68.38	category.alldatasheetru.com
+#115.22.68.38	category.alldatasheetit.com
+#115.22.68.38	category.alldatasheetpt.com
+#115.22.68.38	category.alldatasheetde.com
+#115.22.68.38	category.alldatasheet.pl
+#115.22.68.38	category.alldatasheet.vn
+
+#115.22.68.19	pdf1.alldatasheet.com
+#115.22.68.19	pdf1.alldatasheet.net
+#115.22.68.19	pdf1.alldatasheet.jp
+#115.22.68.19	pdf1.alldatasheet.es
+#115.22.68.19	pdf1.alldatasheet.fr
+#115.22.68.19	cnpdf1.alldatasheet.com
+#115.22.68.19	pdf1.alldatasheetcn.com
+#115.22.68.19	pdf1.alldatasheet.co.kr
+#115.22.68.19	pdf1.alldatasheetru.com
+#115.22.68.19	pdf1.alldatasheetit.com
+#115.22.68.19	pdf1.alldatasheetpt.com
+#115.22.68.19	pdf1.alldatasheet.pl
+#115.22.68.19	pdf1.alldatasheet.vn
+#115.22.68.19	pdf1.alldatasheetde.com
+
+#115.22.68.30	html.alldatasheet.jp
+#115.22.68.54	htmlimg1.alldatasheet.jp
+#115.22.68.54	htmlimg2.alldatasheet.jp
+#115.22.68.30	html.alldatasheetit.com
+#115.22.68.54	htmlimg1.alldatasheetit.com
+#115.22.68.54	htmlimg2.alldatasheetit.com
+#115.22.68.30	html.alldatasheetcn.com
+#115.22.68.54	htmlimg1.alldatasheetcn.com
+#115.22.68.54	htmlimg2.alldatasheetcn.com
+#115.22.68.30	html.alldatasheetde.com
+#115.22.68.54	htmlimg1.alldatasheetde.com
+#115.22.68.54	htmlimg2.alldatasheetde.com
+#115.22.68.30	html.alldatasheetru.com
+#115.22.68.54	htmlimg1.alldatasheetru.com
+#115.22.68.54	htmlimg2.alldatasheetru.com
+#115.22.68.30	html.alldatasheet.co.kr
+#115.22.68.54	htmlimg1.alldatasheet.co.kr
+#115.22.68.54	htmlimg2.alldatasheet.co.kr
+#115.22.68.30	html.alldatasheet.net
+#115.22.68.54	htmlimg1.alldatasheet.net
+#115.22.68.54	htmlimg2.alldatasheet.net
+#115.22.68.30	html.alldatasheet.es
+#115.22.68.54	htmlimg1.alldatasheet.es
+#115.22.68.54	htmlimg2.alldatasheet.es
+#115.22.68.30	html.alldatasheet.fr
+#115.22.68.54	htmlimg1.alldatasheet.fr
+#115.22.68.54	htmlimg2.alldatasheet.fr
+#115.22.68.30	html.alldatasheet.com
+#115.22.68.54	htmlimg1.alldatasheet.com
+#115.22.68.54	htmlimg2.alldatasheet.com
+#115.22.68.30	html.alldatasheetpt.com
+#115.22.68.54	htmlimg1.alldatasheetpt.com
+#115.22.68.54	htmlimg2.alldatasheetpt.com
+#115.22.68.30	html.alldatasheet.pl
+#115.22.68.54	htmlimg1.alldatasheet.pl
+#115.22.68.54	htmlimg2.alldatasheet.pl
+#115.22.68.30	html.alldatasheet.vn
+#115.22.68.54	htmlimg1.alldatasheet.vn
+#115.22.68.54	htmlimg2.alldatasheet.vn
+
+#115.22.68.20	images.alldatasheet.com
+#115.22.68.20	images.alldatasheet.net
+#115.22.68.20	images.alldatasheet.jp
+#115.22.68.20	images.alldatasheet.es
+#115.22.68.20	images.alldatasheet.fr
+#115.22.68.20	images.alldatasheetcn.com
+#115.22.68.20	images.alldatasheet.co.kr
+#115.22.68.20	images.alldatasheetru.com
+#115.22.68.20	images.alldatasheetit.com
+#115.22.68.20	images.alldatasheetpt.com
+#115.22.68.20	images.alldatasheetde.com
+#115.22.68.20	images.alldatasheet.pl
+#115.22.68.20	images.alldatasheet.vn
+
+115.22.68.24	banner.alldatasheet.com
+
+
+#115.22.68.71	distributor.alldatasheet.com
+115.22.68.71	www.icnara.com
+
+#115.22.68.71	manufacture.alldatasheet.net
+#115.22.68.71	manufacture.alldatasheet.com
+#115.22.68.71	manufacture.alldatasheetcn.com
+#115.22.68.71	manufacture.alldatasheetde.com
+#115.22.68.71	manufacture.alldatasheet.jp
+#115.22.68.71	manufacture.alldatasheetru.com
+#115.22.68.71	manufacture.alldatasheet.co.kr
+#115.22.68.71	manufacture.alldatasheet.es
+#115.22.68.71	manufacture.alldatasheet.fr
+#115.22.68.71	manufacture.alldatasheetit.com
+#115.22.68.71	manufacture.alldatasheetpt.com
+#115.22.68.71	manufacture.alldatasheet.pl
+#115.22.68.71	manufacture.alldatasheet.vn
+
+115.22.68.71	manufacture1.alldatasheet.net
+115.22.68.71	manufacture1.alldatasheetcn.com
+115.22.68.71	manufacture1.alldatasheetde.com
+115.22.68.71	manufacture1.alldatasheet.jp
+115.22.68.71	manufacture1.alldatasheetru.com
+115.22.68.71	manufacture1.alldatasheet.co.kr
+115.22.68.71	manufacture1.alldatasheet.es
+115.22.68.71	manufacture1.alldatasheet.fr
+115.22.68.71	manufacture1.alldatasheetit.com
+115.22.68.71	manufacture1.alldatasheetpt.com
+115.22.68.71	manufacture1.alldatasheet.pl
+115.22.68.71	manufacture1.alldatasheet.vn
+
+#115.22.68.45	components.alldatasheet.com
+#115.22.68.45	components.alldatasheetcn.com
+#115.22.68.45	components.alldatasheetde.com
+#115.22.68.45	components.alldatasheet.jp
+#115.22.68.45	components.alldatasheet.net
+#115.22.68.45	components.alldatasheetru.com
+#115.22.68.45	components.alldatasheet.co.kr
+#115.22.68.45	components.alldatasheet.es
+#115.22.68.45	components.alldatasheet.fr
+#115.22.68.45	components.alldatasheetit.com
+#115.22.68.45	components.alldatasheetpt.com
+#115.22.68.45	components.alldatasheet.pl
+#115.22.68.45	components.alldatasheet.vn
+
+#115.22.68.80           www.alldatasheet.in
+#115.22.68.80           www.alldatasheet.co.uk
+#115.22.68.80           www.alldatasheet.com.mx
+#115.22.68.80           www.alldatasheet.co.nz
+
+
+34.64.98.175     alldatasheet.fr
+
+34.64.98.175     www.alldatasheet.fr
+
+34.64.98.175     pdf1.alldatasheet.fr
+
+34.64.98.175     html.alldatasheet.fr
+
+34.64.98.175     distributor.alldatasheet.fr
+
+34.64.98.175     manufacture.alldatasheet.fr
+
+34.64.98.175     category.alldatasheet.fr
+
+34.64.98.175     images.alldatasheet.fr
+
+34.64.98.175     htmlimg1.alldatasheet.fr
+
+34.64.98.175     htmlimg2.alldatasheet.fr
+
+
+34.64.98.175     alldatasheetru.com
+
+34.64.98.175     www.alldatasheetru.com
+
+34.64.98.175     pdf1.alldatasheetru.com
+
+34.64.98.175     html.alldatasheetru.com
+
+34.64.98.175     distributor.alldatasheetru.com
+
+34.64.98.175     manufacture.alldatasheetru.com
+
+34.64.98.175     category.alldatasheetru.com
+
+34.64.98.175     images.alldatasheetru.com
+
+34.64.98.175     htmlimg1.alldatasheetru.com
+
+34.64.98.175     htmlimg2.alldatasheetru.com
+
+
+34.64.98.175     alldatasheetit.com
+
+34.64.98.175     www.alldatasheetit.com
+
+34.64.98.175     pdf1.alldatasheetit.com
+
+34.64.98.175     html.alldatasheetit.com
+
+34.64.98.175     distributor.alldatasheetit.com
+
+34.64.98.175     manufacture.alldatasheetit.com
+
+34.64.98.175     category.alldatasheetit.com
+
+34.64.98.175     images.alldatasheetit.com
+
+34.64.98.175     htmlimg1.alldatasheetit.com
+
+34.64.98.175     htmlimg2.alldatasheetit.com
+
+
+34.64.98.175     alldatasheetpt.com
+
+34.64.98.175     www.alldatasheetpt.com
+
+34.64.98.175     pdf1.alldatasheetpt.com
+
+34.64.98.175     html.alldatasheetpt.com
+
+34.64.98.175     distributor.alldatasheetpt.com
+
+34.64.98.175     manufacture.alldatasheetpt.com
+
+34.64.98.175     category.alldatasheetpt.com
+
+34.64.98.175     images.alldatasheetpt.com
+
+34.64.98.175     htmlimg1.alldatasheetpt.com
+
+34.64.98.175     htmlimg2.alldatasheetpt.com
+
+
+34.64.98.175     alldatasheet.es
+
+34.64.98.175     www.alldatasheet.es
+
+34.64.98.175     pdf1.alldatasheet.es
+
+34.64.98.175     html.alldatasheet.es
+
+34.64.98.175     distributor.alldatasheet.es
+
+34.64.98.175     manufacture.alldatasheet.es
+
+34.64.98.175     category.alldatasheet.es
+
+34.64.98.175     images.alldatasheetpt.es
+
+34.64.98.175     htmlimg1.alldatasheet.es
+
+34.64.98.175     htmlimg2.alldatasheet.es
+
+
+34.64.98.175     alldatasheetcn.com
+
+34.64.98.175     www.alldatasheetcn.com
+
+34.64.98.175     pdf1.alldatasheetcn.com
+
+34.64.98.175     html.alldatasheetcn.com
+
+34.64.98.175     distributor.alldatasheetcn.com
+
+34.64.98.175     manufacture.alldatasheetcn.com
+
+34.64.98.175     category.alldatasheetcn.com
+
+34.64.98.175     images.alldatasheetcn.com
+
+34.64.98.175     htmlimg1.alldatasheetcn.com
+
+34.64.98.175     htmlimg2.alldatasheetcn.com
+
+
+34.64.98.175     alldatasheetde.com
+
+34.64.98.175     www.alldatasheetde.com
+
+34.64.98.175     pdf1.alldatasheetde.com
+
+34.64.98.175     html.alldatasheetde.com
+
+34.64.98.175     distributor.alldatasheetde.com
+
+34.64.98.175     manufacture.alldatasheetde.com
+
+34.64.98.175     category.alldatasheetde.com
+
+34.64.98.175     images.alldatasheetde.com
+
+34.64.98.175     htmlimg1.alldatasheetde.com
+
+34.64.98.175     htmlimg2.alldatasheetde.com
+
+
+34.64.98.175     alldatasheet.com
+
+34.64.98.175     www.alldatasheet.com
+
+34.64.98.175     pdf1.alldatasheet.com
+
+34.64.98.175     html.alldatasheet.com
+
+34.64.98.175     distributor.alldatasheet.com
+
+34.64.98.175     manufacture.alldatasheet.com
+
+34.64.98.175     category.alldatasheet.com
+
+34.64.98.175     images.alldatasheet.com
+
+34.64.98.175     htmlimg1.alldatasheet.com
+
+34.64.98.175     htmlimg2.alldatasheet.com
+
+34.64.98.175     components.alldatasheet.com
+
+
+34.64.98.175     alldatasheet.vn
+
+34.64.98.175     www.alldatasheet.vn
+
+34.64.98.175     pdf1.alldatasheet.vn
+
+34.64.98.175     html.alldatasheet.vn
+
+34.64.98.175     distributor.alldatasheet.vn
+
+34.64.98.175     manufacture.alldatasheet.vn
+
+34.64.98.175     category.alldatasheet.vn
+
+34.64.98.175     images.alldatasheet.vn
+
+34.64.98.175     htmlimg1.alldatasheet.vn
+
+34.64.98.175     htmlimg2.alldatasheet.vn
+
+
+34.64.98.175     alldatasheet.pl
+
+34.64.98.175     www.alldatasheet.pl
+
+34.64.98.175     pdf1.alldatasheet.pl
+
+34.64.98.175     html.alldatasheet.pl
+
+34.64.98.175     distributor.alldatasheet.pl
+
+34.64.98.175     manufacture.alldatasheet.pl
+
+34.64.98.175     category.alldatasheet.pl
+
+34.64.98.175     images.alldatasheet.pl
+
+34.64.98.175     htmlimg1.alldatasheet.pl
+
+34.64.98.175     htmlimg2.alldatasheet.pl
+
+
+34.64.98.175     alldatasheet.jp
+
+34.64.98.175     www.alldatasheet.jp
+
+34.64.98.175     pdf1.alldatasheet.jp
+
+34.64.98.175     html.alldatasheet.jp
+
+34.64.98.175     distributor.alldatasheet.jp
+
+34.64.98.175     manufacture.alldatasheet.jp
+
+34.64.98.175     category.alldatasheet.jp
+
+34.64.98.175     images.alldatasheet.jp
+
+34.64.98.175     htmlimg1.alldatasheet.jp
+
+34.64.98.175     htmlimg2.alldatasheet.jp
+
+
+34.64.98.175     alldatasheet.co.kr
+
+34.64.98.175     www.alldatasheet.co.kr
+
+34.64.98.175     pdf1.alldatasheet.co.kr
+
+34.64.98.175     html.alldatasheet.co.kr
+
+34.64.98.175     distributor.alldatasheet.co.kr
+
+34.64.98.175     manufacture.alldatasheet.co.kr
+
+34.64.98.175     category.alldatasheet.co.kr
+
+34.64.98.175     images.alldatasheet.co.kr
+
+34.64.98.175     htmlimg1.alldatasheet.co.kr
+
+34.64.98.175     htmlimg2.alldatasheet.co.kr
+
+
+34.64.98.175     alldatasheet.net
+
+34.64.98.175     www.alldatasheet.net
+
+34.64.98.175     pdf1.alldatasheet.net
+
+34.64.98.175     html.alldatasheet.net
+
+34.64.98.175     distributor.alldatasheet.net
+
+34.64.98.175     manufacture.alldatasheet.net
+
+34.64.98.175     category.alldatasheet.net
+
+34.64.98.175     images.alldatasheet.net
+
+34.64.98.175     htmlimg1.alldatasheet.net
+
+34.64.98.175     htmlimg2.alldatasheet.net

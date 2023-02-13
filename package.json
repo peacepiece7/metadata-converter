@@ -1,0 +1,23 @@
+{
+  "name": "metadata-converter",
+  "version": "1.0.0",
+  "description": "\"# metadata-converter\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg index.js --out-path dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peacepiece7/metadata-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peacepiece7/metadata-converter/issues"
+  },
+  "homepage": "https://github.com/peacepiece7/metadata-converter#readme",
+  "dependencies": {
+    "pkg": "^5.8.0"
+  }
+}
